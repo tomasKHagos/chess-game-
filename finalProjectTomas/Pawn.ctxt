@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pawn
+comment1.params=player\ pieceList
+comment1.target=Pawn(int,\ int[][])
+comment2.params=
+comment2.target=void\ act()
+comment3.params=isfirst\ row1\ column1\ row2\ column2\ pieceList
+comment3.target=boolean\ islegalforPawn(boolean,\ int,\ int,\ int,\ int,\ int[][])
+comment4.params=row1\ column1\ row2\ column2\ piecesList
+comment4.target=boolean\ checkifjump(int,\ int,\ int,\ int,\ int[][])
+comment5.params=x\ y\ x2\ y2
+comment5.target=boolean\ islegal(int,\ int,\ int,\ int)
+comment6.params=row
+comment6.target=void\ changePawn(int)
+comment7.params=pieceList\ row\ column\ list\ isfirst
+comment7.target=void\ pawnPointer(int[][],\ int,\ int,\ java.util.ArrayList,\ boolean)
+numComments=8

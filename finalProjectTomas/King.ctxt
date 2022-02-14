@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=King
+comment1.params=player\ pieceList
+comment1.target=King(int,\ int[][])
+comment2.params=
+comment2.target=void\ act()
+comment3.params=row1\ column1\ row2\ column2
+comment3.target=boolean\ islegal(int,\ int,\ int,\ int)
+comment4.params=x1\ y1\ x2\ y2\ piecesList
+comment4.target=boolean\ checkifjump(int,\ int,\ int,\ int,\ int[][])
+comment5.params=list\ x\ y
+comment5.target=boolean\ checkifempty(int[][],\ int,\ int)
+comment6.params=pieceList\ row\ column\ point
+comment6.target=void\ kingPointer(int[][],\ int,\ int,\ java.util.ArrayList)
+numComments=7
